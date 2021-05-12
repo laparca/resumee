@@ -1,0 +1,9 @@
+*.swp
+CMakeCache.txt
+CMakeFiles
+CPM_modules
+_deps
+*.o
+Makefile
+*.cmake
+
