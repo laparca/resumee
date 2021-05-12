@@ -1,0 +1,289 @@
+cvVersion: 1.0
+header:
+  name: "Samuel Rodríguez Sevilla"
+  phone: "(+34) 652 893 791"
+  dateBirth: "28/02/1980"
+  jobtitle:
+    es: "Ingeniero Informático"
+    en: "Computer Engineer"
+  links:
+    - email: "laparca@laparca.es"
+    - site: "https://blog.laparca.es/"
+    - linkedin: "/in/samuel-rodriguez-sevilla"
+    - github: "laparca"
+  about:
+    es: |
+      Soy una persona curiosa que constantemente busco nuevos conocimientos.
+    en: |
+      I'm a courious person. I'm always looking for new knowledge.
+
+education:
+  - start: 2005
+    end: 2011
+    title:
+      es: "Ingeniería en Informática"
+      en: "Computer Engineering"
+    calification: 7.21/10.0
+    site:
+      name: "Universidad Carlos III de Madrid"
+      href: http://www.uc3m.es
+  - start: 2001
+    end: 2005
+    title:
+      es: "Ing. Tec. en Informática de Gestión"
+      en: "Technical Engineering in Business Computing"
+    calification: 7.21/10
+    site:
+      name: "Universidad Carlos III de Madrid"
+      href: http://www.uc3m.es
+  - start: 1999
+    end: 2001
+    title:
+      es: "Ciclo formativo de Grado Superior en Desarrollo de Aplicaciones Informáticas"
+      en: "High Technical Certificate in Computer Application Development"
+    calification: 8.0/10.0
+  - start: 2008
+    end:
+    title:
+      es: "Máster Universitario en Ciencia y Tecnología Informática"
+      en: "Master of Computer Science & Technology"
+
+experience:
+  - start: 2019
+    end:
+    title:
+      es: Diseñador de software
+      en: Software Designer
+    company:
+      name: "Ericsson España"
+      href: "http://www.ericsson.com/"
+    skills:
+      - C++
+      - Git
+      - Jira
+      - Gerrit
+      - es: MicroServicios
+        en: MicroServices
+      - Bash
+      - Helm
+      - Kubernetes
+      - Docker
+      - Linux
+      - OpenAPI
+    tasks:
+      - es: "Mantenimiento de software de politicas de 4G y 5G"
+        en: "Maintenance of 4G and 5G policy software"
+      - es: "Desarrollo de microservicio de validación de datos"
+        en: "Development of microservice for data validation"
+  - start: 2016
+    end: 2019
+    title:
+      es: "Líder técnico/manager"
+      en: "Technical Leader/Manager"
+    company:
+      name: "Dia"
+      href: "http://diacorporate.com"
+    skills:
+      - C
+      - C++
+      - Bash
+      - Git
+      - Subversion
+      - Scrum
+      - Kanban
+      - Java
+      - gSoap
+      - SOAP
+      - RPC
+      - es: Liderazgo
+        en: Lidership
+    tasks:
+      - es: "Estudio de soluciones técnicas"
+        en: "Determine technical solutions"
+      - es: "Coordinación con áreas de negocio"
+        en: "Coordination with other departments"
+      - es: "Contacto con proveedores de software"
+        en: "Negotiate with software suppliers"
+      - es: "Realización de procesos de selección"
+        en: "Employee selection"
+      - es: "Organizar un equipo de 7 personas"
+        en: "Organize a 7 people team"
+  - start: 2014
+    end: 2016
+    title:
+      es: "Analita/Desarrollador"
+      en: "Analyst/Developer"
+    company:
+      name: "Dia"
+      href: "http://diacorporate.com"
+    skills:
+      - C
+      - C++
+      - Bash
+      - Git
+      - Subversion
+      - Scrum
+      - Kanban
+      - Java
+      - gSoap
+      - SOAP
+      - FairCom C-Tree
+    tasks:
+      - es: "Soporte y desarrollo de aplicación de TPV"
+        en: "Support & development of PoS application"
+      - es: "Desarrollo y mantenimiento de microservicio de fidelización"
+        en: "Development & maintenance of loyalty microservice"
+  - start: 2012
+    end: 2014
+    title:
+      es: "Analita/Desarrollador"
+      en: "Analyst/Developer"
+    company:
+      name: "HITEC"
+      href: "http://www.hitec.es"
+    skills:
+      - C
+      - C++
+      - Bash
+      - Git
+      - Subversion
+      - Scrum
+      - Kanban
+      - Java
+      - gSoap
+      - SOAP
+      - FairCom C-Tree
+    tasks:
+      - es: "Soporte y desarrollo de aplicación de TPV"
+        en: "Support & development of PoS application"
+      - es: "Desarrollo de microservicio de fidelización"
+        en: "Development of loyalty microservice"
+  - start: 2011
+    end: 2012
+    title:
+      es: "Analista/Desarrollador"
+      en: "Analyst/Developer"
+    company:
+      name: "Schibsted"
+      href: "http://www.schibsted.es/"
+    skills:
+      - C
+      - eXtream Programming
+      - PHP
+      - Linux
+      - Apache
+      - Subversion
+      - HTML
+      - JavaScript
+      - Scrapping
+    tasks:
+      - es: "Desarrollo aplicación de compra-venta"
+        en: "Development of classified advertisements application"
+      - es: "Desarrollo de app iOS"
+        en: "Development of an iOS app"
+      - es: "Desarrollo de app para Android"
+        en: "Development of an Android app"
+      - es: "Scrapping de web de anuncios"
+        en: "Scrapping of advertisements webs"
+  - start: 2010
+    end: 2010
+    title:
+      es: "Desarrollo web"
+      en: "Web development"
+    company:
+      name: "Grupo de Empresas Alonso"
+      href: "http://www.grupoalonso.com"
+    skills:
+      - HTML
+      - JavaScript
+      - Joomla
+      - CSS
+      - PHP
+    tasks:
+      - es: "Diseño y desarrollo web usando Joomla"
+        en: "Design & development using Joomla"
+      - es: "Desarrollo de catálogo virtual"
+        en: "Development of virtual catalog"
+  - start: 2019
+    end: 2014
+    title:
+      es: "Desarrollo web"
+      en: "Web Development"
+    company:
+      name: "Eduardo Ocejo"
+      href: "http://www.eduardoocejo.es/"
+    skills:
+      - HTML
+      - Javascript
+      - WordPress
+      - CSS
+      - Linux
+      - Apache
+      - SEO
+      - Joomla
+      - PHP
+    tasks:
+      - es: "Colaboraciones esporádicas para diseño, desarrollo y despliegue de páginas web"
+        en: "Colaboration on the design, development and deployment of web pages"
+      - es: "Asesoramiento sobre SEO"
+        en: "SEO advice"
+  - start: 2006
+    end: 2011
+    title:
+      es: "Analista/Desarrollador"
+      en: "Analyst/Developer"
+    company:
+      name: "Universidad Carlos III - Laboratorio de Infrajos"
+      href: "https://lir.uc3m.es"
+    skills:
+      - C++
+      - Java
+      - Groovy
+      - Subversion
+      - MPI
+      - Linux
+    tasks:
+      - es: "Diseño e implementación de aplicación de simulación paralela"
+        en: "Design & implementation of parallel sumulation application"
+      - es: "Desarrollo de herramientoas para ayudar en los proyectos de investigación"
+        en: "Develop tools to help the research projects of the department"
+      - es: "Despliegue de cluster de alto rendimiento"
+        en: "Deployment of High Performance Cluster"
+      - es: "Administración del servidor de ficheros del departamento"
+        en: "Administration of the file server of the department"
+
+courses:
+  - date: 2020
+    title: "Docker & Kubernetes admin with Helm"
+    issuer: "ComponentSoft"
+    href: "https://www.componentsoft.io/"
+  - date: 2019
+    title: "C++11/14/17"
+    issuer: "Universidad Carlos III de Madrid"
+    href: "https://www.uc3m.es"
+  - date: 2018
+    title:
+      es: "Introducción a Kanban"
+      en: "Introduction to Kanban"
+    issuer: "Thinking With You"
+    link: "https://thinkingwithyou.com/"
+  - date: 2017
+    title: "Scrum PSM-I Certification"
+    issuer: "Scrum.org"
+    href: "https://www.scrum.otrg/user/306492"
+  - date: 2011
+    title: "Machine Learning"
+    issuer: "Stanford University (now Coursera)"
+    href: "http://ml-class.org"
+
+other:
+  - title:
+      es: "Inglés nivel medio"
+      en: "Pre-intermediate English skill"
+  - title:
+      es: "Mantengo mi propio servidor de correo y web"
+      en: "Maintenance of my own mail and web server"
+  - title:
+      es: "Miembro de GUL UC3M donde he formado parte de la directiva"
+      en: "Member of the UC3M Linux User Group where I was part of the executive"
+
