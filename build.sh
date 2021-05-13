@@ -1,2 +1,2 @@
-cmake -H. -Bbuild
-cmake --build build
+cmake -H. -Bbuild -DCMAKE_BUILD_TYPE=Debug
+cmake --build build -v
