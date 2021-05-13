@@ -1,4 +1,5 @@
-#pragma once
+#ifndef YAML_SERIALIZATION_HPP
+#define YAML_SERIALIZATION_HPP
 
 #include <yaml-cpp/yaml.h>
 #include <optional>
@@ -121,3 +122,5 @@ namespace resumee
 
     }
 }
+
+#endif

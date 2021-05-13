@@ -3,6 +3,7 @@
 #include <map>
 #include <optional>
 #include <resumee.hpp>
+#include <template_wrapper.hpp>
 
 int main(int argc, char** argv)
 {

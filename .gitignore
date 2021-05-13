@@ -6,4 +6,4 @@ _deps
 *.o
 Makefile
 *.cmake
-
+build/

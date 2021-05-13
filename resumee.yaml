@@ -7,10 +7,10 @@ header:
     es: "Ingeniero Informático"
     en: "Computer Engineer"
   links:
-    - email: "laparca@laparca.es"
-    - site: "https://blog.laparca.es/"
-    - linkedin: "/in/samuel-rodriguez-sevilla"
-    - github: "laparca"
+    email: "laparca@laparca.es"
+    site: "https://blog.laparca.es/"
+    linkedin: "/in/samuel-rodriguez-sevilla"
+    github: "laparca"
   about:
     es: |
       Soy una persona curiosa que constantemente busco nuevos conocimientos.
@@ -204,7 +204,7 @@ experience:
         en: "Design & development using Joomla"
       - es: "Desarrollo de catálogo virtual"
         en: "Development of virtual catalog"
-  - start: 2019
+  - start: 2009
     end: 2014
     title:
       es: "Desarrollo web"
