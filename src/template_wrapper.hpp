@@ -29,7 +29,7 @@ namespace resumee
 
             StreamType& render(StreamType& os, resumee::v1::resumee const& resumee) override
             {
-                return value_.render(os, resmuee);
+                return value_.render(os, resumee);
             }
         };
     

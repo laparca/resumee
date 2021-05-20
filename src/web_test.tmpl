@@ -1,10 +1,25 @@
+<!DOCTYPE html>
 <html>
     <head></head>
     <body>
+        <div class="header">
+            <h1><%!resumee.header_.name_%></h1>
+            <h2><%!resumee.header_.jobtitle_%></h2>
+        </div>
+        <div class="education">
+            <h2>Educación</h2>
+            <% for (auto const& education : resumee.education_) { %>
+                <h3><%!education.title_%></h3>
+            <% } %>
+        </div>
+        <div class="experience">
+        </div>
+        <div class="other">
+        </div>
     </body>
 </html>
 <%e
 namespace
 {
-    resumee::register_template_helper _("web_test", web_test{});
+    resumee::register_template_helper const _("web_test", web_test{});
 }

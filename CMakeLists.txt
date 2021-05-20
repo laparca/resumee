@@ -18,6 +18,9 @@ CPMAddPackage(
       "YAML_CPP_BUILD_TOOLS OFF"
       "YAML_CPP_INSTALL OFF"
     )
+
+CPMAddPackage("gh:Orphis/boost-cmake#7f97a08b64bd5d2e53e932ddf80c40544cf45edf@1.71.0")
+
 #CPMAddPackage(
 #    NAME Format.cmake
 #    VERSION 1.6
