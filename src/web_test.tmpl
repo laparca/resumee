@@ -9,10 +9,22 @@
         <div class="education">
             <h2>Educación</h2>
             <% for (auto const& education : resumee.education_) { %>
-                <h3><%!education.title_%></h3>
+                <div class="">
+                    <h3><%!education.title_%></h3>
+                </div>
             <% } %>
         </div>
         <div class="experience">
+            <h2>Experiencia</h2>
+            <% for (auto const& experience : resumee.experience_) { %>
+                <div class="">
+                    <h3><%!experience.title_%></h3>
+                    <div class="required_skills">
+                        <%!plain(intersperse<std::vector>(experience.skills_, ", "))%>
+                    </div>
+                    <%!to_html_ul(experience.tasks_)%>
+                </div>
+            <% } %>
         </div>
         <div class="other">
         </div>
