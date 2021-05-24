@@ -78,6 +78,7 @@ EXTRACTOR_IMPL_FOR(::resumee::v1::resumee)
         YAML_READ_P(resumee, "cvVersion", cv_version_),
         YAML_READ(resumee, header),
         YAML_READ(resumee, education),
+        YAML_READ(resumee, experience),
         YAML_READ(resumee, other)
     };
 }

@@ -68,6 +68,7 @@ namespace resumee
             std::string cv_version_;
             header header_;
             education education_;
+            experience experience_;
             other other_;
         };
     }
